@@ -1,0 +1,110 @@
+<html>
+<head> 	
+	<title> רק על עצמי לספר ידעתי </title>
+	<link rel="stylesheet" href="styles.css">
+</head>	  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Light Blue Background</title>
+    <style>
+        body {
+            img src= "תביעות רגל.jpg" style= background";
+        }
+    </style>
+<body>
+<div>
+<center>
+<span style= color:blue;
+<br>
+	 <h1> רק על עצמי לספר ידעתי </h1>
+	<b><h1> שמי שירלי ואני בת 35 מתגוררת בראשון לציון</h1></b> </span>
+	 <img src="shirly.jpg" alt="Your Image" style="width: 250px; border-radius: 100px; box-shadow: 100px 100px 20px rgba(0, 0, 0, 0.1); padding:5px;">
+	<p>
+	</p>
+	<h3><i> כבר מגיל מאוד קטן אני מאוד אוהבת כלבים</i> </h3>
+	 <h3><i>   ואני פה כדי לספר עליהם</h3><i> 
+	<h3>?...אז שנתחיל<h3>
+	<hr/>
+	<p>
+	<h2> חברו הטוב ביותר של האדם </h2> <img style ="width:200px;" src="כף רגל.jpg">
+<br><h3>	כלב הוא שמו היומיומי של כלב הבית, והוא בעל החיים המבוית הקדום ביותר
+כלבים הם חיה חברותית ולרוב חיה בלהקות</p>
+<img src"= כף רגל של כלב"
+<p>תוחלת חייו של כלב ממוצע: כ-14 שנים
+<br> גובהו: 15-110 ס"מ
+<br> צבעו: בין שחור ללבן ובניהם גוונים חומים, אפורים אדמדמים
+<br> מהירות ריצה: 15-20 קמ"ש
+<br> משך הריונה של הכלבה: כחודשיים
+<br> מחלקה: יונקים
+<br> מין: זאב מצוי <h3> 
+</p>
+<div>
+<br>
+	<u>   <h2> גזעים  אהובים עלי  </h2> </u>
+<br> 
+	
+<br> <a href="https://www.biopet.co.il/complete-guide-dogs/%d7%90%d7%a7%d7%99%d7%98%d7%94-%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99/" target="blank"> אקיטה </a>
+<br>	<img style= "width:400px; border-radius: 50%" src="akita.jpg"> <br>
+<br>
+ <a href="https://www.biopet.co.il/complete-guide-dogs/%d7%a8%d7%95%d7%98%d7%95%d7%95%d7%99%d7%99%d7%9c%d7%a8/"target="blank"> רוטוויילר </a>
+<br>	<img style= "width:400px;  border-radius: 50% " src="rotweiller.jpg"> <br>
+<br>
+<br> <a href "https://www.biopet.co.il/complete-guide-dogs/%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%9f-%d7%a4%d7%99%d7%98%d7%91%d7%95%d7%9c-%d7%98%d7%a8%d7%99%d7%99%d7%a8/" target=blank">      פיטבול </a>
+<br> <img style= "width:400px;  border-radius: 50%" src="pitbull.jpg"> <br>
+<br>
+<br> <a href="https://www.biopet.co.il/complete-guide-dogs/%d7%91%d7%99%d7%92%d7%9c/" target=blank">   ביגל </a>
+<br>	<img style= "width:400px;  border-radius: 50%" src="bigel.jpg"> <br>
+<br>
+<br> <a href="https://www.biopet.co.il/complete-guide-dogs/%d7%a4%d7%95%d7%9e%d7%a8%d7%a0%d7%99%d7%99%d7%9f/" target=blank">   פומרניין </a>
+<br>  <img style= "width:400px; border-radius: 50%" src="pomeranyan.jpg"> <br>
+<br>
+<br> <a href="https://www.biopet.co.il/complete-guide-dogs/%d7%9c%d7%91%d7%a8%d7%93%d7%95%d7%a8-%d7%a8%d7%98%d7%a8%d7%99%d7%91%d7%a8/" target=blank">  לברדור</a>
+<br> <img style= "width:400px;  border-radius: 50%" src="lavrador.jpg"> <br>
+<br>
+<hr>
+<br> <a href="https://www.cbtisrael.co.il/anxiety-disorders/specific-phobia/%D7%A4%D7%95%D7%91%D7%99%D7%94-%D7%A4%D7%97%D7%93-%D7%9E%D7%9B%D7%9C%D7%91%D7%99%D7%9D/" target=blank"> <h2> פחד מכלבים ודרכי התמודדות </h2> </a><br> <img style= "width:400px; border-radius:50%" src="flowerdog.jpg"> <u> <hr>
+</id>
+	<a href= "https://www.hdcenter.co.il/language-of-dogs/" target=blank">  <h2> שפת הכלבים </h2>  </a/> <br> <img style= "width:500px; border-radius:100% "src="פחית.jpg"> <u> <hr>
+	
+<style>
+    table {
+        width:50 %;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+    }
+    th {
+        background-color:  #f2f2f2;
+    }
+	
+</style>
+</head>
+<body>
+<hr>
+
+<h2>יצירת קשר</h2>
+
+<table>
+  <tr>
+    <th>שם</th>
+	<th>טלפון</th>
+	<th>אימייל</th>
+    <th>לינקדין</th>
+  </tr>
+  <tr>
+    <td>שירלי נחמן</td>
+    <td>0504577625</td>
+	<td>     <p> <a href="shir5245@gmail.com">shir5245@gmail.com</a></p></td>
+    <td> <p> <a href="https://www.linkedin.com/in/shirly-nahman/">https://www.linkedin.com/in/shirly-nahman/</a></p></td>
+  </tr>
+</table>
+
+</center>
+
+</div>
+</body>
+
+
+<html>

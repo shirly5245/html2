@@ -1,0 +1,15 @@
+
+    body {
+        background-color: pink;
+ color: black;
+}
+
+h1 {
+  color: navy;background-color: white;
+  margin-left: 20px;
+}
+
+.image-with-shadow {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adjust values as needed */
+}
+
